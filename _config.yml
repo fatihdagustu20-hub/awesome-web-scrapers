@@ -1,0 +1,8 @@
+title: Web Scraping Tools & Tutorials
+description: 100+ ready-to-use web scrapers for e-commerce, jobs, reviews, lead generation, and social media
+theme: jekyll-theme-cayman
+baseurl: "/awesome-web-scrapers"
+url: "https://fatihdagustu20-hub.github.io"
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
